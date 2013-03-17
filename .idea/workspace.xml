@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4bc0018-f4dd-4f2d-9b13-10913015c195" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/README.rdoc" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-    </list>
+    <list default="true" id="c4bc0018-f4dd-4f2d-9b13-10913015c195" name="Default" comment="" />
     <ignored path="first_app.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Gemfile" changelist="c4bc0018-f4dd-4f2d-9b13-10913015c195" time="1363452755940" ignored="false" />
